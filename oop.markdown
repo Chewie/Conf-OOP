@@ -43,9 +43,9 @@
 
 ## Relationships between objects
 
-### Accessing attributes
+### Creating an object
 
-### Calling methods
+### Accessing attributes, calling methods
 
 ### Public and private fields
 
@@ -61,7 +61,7 @@
 
 ### Classes are types
 
-### A word on paradigms
+### A word on polymorphism
 
 ### the Liskov substitution principle
 
